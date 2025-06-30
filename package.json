@@ -1,0 +1,13 @@
+{
+  "name": "playground-js-bali",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "build": "node api/bio.js && node api/contact.js && node api/projects.js"
+  },
+  "devDependencies": {},
+  "description": "playground",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
+}
